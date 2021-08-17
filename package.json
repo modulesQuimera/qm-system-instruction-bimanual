@@ -1,0 +1,25 @@
+{
+  "name": "qm-system-instruction-bimanual",
+  "version": "1.0.0",
+  "description": "System Instruction Bimanual",
+  "main": "bimanual.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modulesQuimera/qm-system-instruction-bimanual.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/modulesQuimera/qm-system-instruction-bimanual/issues"
+  },
+  "homepage": "https://github.com/modulesQuimera/qm-system-instruction-bimanual#readme",
+  "node-red": {
+    "nodes": {
+      "bimanual": "bimanual.js"
+    }
+  }
+}
